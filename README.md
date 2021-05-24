@@ -11,7 +11,8 @@ you always need a ~~strikethrough~~
 bold and nested **is it _working?_**
 ***all bold and italic***
 
-#### add a quote: > blah blah blah blah
+#### add a quote: 
+> blah blah blah blah
 
 #### add a link:[Github](https://github.com/naomininnig/markdown)
 #### orders list:
@@ -31,7 +32,7 @@ bold and nested **is it _working?_**
 
 #### tesk lists
 -[x]make a markdown practice
--[] continue with git commends
--[] terminal
+-[x] continue with git commends
+-[x] terminal
 
 
