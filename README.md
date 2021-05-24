@@ -8,6 +8,30 @@ or __two minus lines__ ?
 *italic text*  
 or _italic text?_
 you always need a ~~strikethrough~~
-bols and nested **is it _working?_ 
+bold and nested **is it _working?_**
 ***all bold and italic***
+
+#### add a quote: > blah blah blah blah
+
+#### add a link:[Github](https://github.com/naomininnig/markdown)
+#### orders list:
+1. one
+2. two
+3. three
+
+#### unorderd list:
+- one 
+- two 
+- three
+
+#### nested list: 
+1. nested list 1
+  - nested 1 
+    - nested 2 
+
+#### tesk lists
+-[x]make a markdown practice
+-[] continue with git commends
+-[] terminal
+
 
