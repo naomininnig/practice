@@ -1,7 +1,7 @@
 # practice
 # let's start the practice
 ## it's easy
-### ust need to remember the markdowns
+### just need to remember the markdowns
 #### start with style:
 **bold text** **withour space**
 
