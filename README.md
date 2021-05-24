@@ -31,8 +31,8 @@ bold and nested **is it _working?_**
     - nested 2 
 
 #### tesk lists
--[x]make a markdown practice
--[x] continue with git commends
--[x] terminal
+- [x] make a markdown practice
+- [x] continue with git commends
+- [x] terminal
 
 
