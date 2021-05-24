@@ -5,7 +5,7 @@
 #### start with style:
 **bold text** **withour space**
 
-or __two minus lines__ ?
+or __two lines__ ? it works! 
 
 *italic text*  
 
@@ -13,9 +13,11 @@ or _italic text?_
 
 you always need a ~~strikethrough~~
 
-bold and nested **is it _working?_**
+bold and nested **is it _working?_** yes
 
-***all bold and italic***
+***all bold and italic*** not so italic but something works...
+
+##### make space between lines to have space 
 
 #### add a quote: 
 > blah blah blah blah
@@ -39,11 +41,12 @@ bold and nested **is it _working?_**
 #### tesk lists
 - [x] make a markdown practice
 - [x] continue with git commends
-- [x] terminal
+- [ ] terminal
 
 #### using emoji
 :wink:  
 
+#### DON'T FORGET TO SAVE BEFORE COMMITING :grimacing:
 
 
 
