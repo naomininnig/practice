@@ -4,11 +4,17 @@
 ### ust need to remember the markdowns
 #### start with style:
 **bold text** **withour space**
+
 or __two minus lines__ ?
+
 *italic text*  
+
 or _italic text?_
+
 you always need a ~~strikethrough~~
+
 bold and nested **is it _working?_**
+
 ***all bold and italic***
 
 #### add a quote: 
@@ -34,5 +40,11 @@ bold and nested **is it _working?_**
 - [x] make a markdown practice
 - [x] continue with git commends
 - [x] terminal
+
+#### using emoji
+:wink:  
+
+
+
 
 
