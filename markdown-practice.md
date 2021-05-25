@@ -10,7 +10,7 @@ you always need a ~~strikethrough~~
 bols and nested **is it _working?_ 
 ***all bold and italic***
 
-## why isn't working???? 
+## why isn't working???? must be saved as file name.md (so the github will know to read it)
 
 
 
